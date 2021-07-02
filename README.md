@@ -208,7 +208,7 @@ Read the documents for more info
 
 ### Developmet
 
-````bash
+```bash
 # Install dependencies
 $ make setup
 
@@ -218,7 +218,11 @@ $ make up
 
 # Change styles
 $ make sh
+
+# Change theme definition in /colors/themes.js
 $ npm run themes # run after every change of theme
+
+
 
 ```
 
